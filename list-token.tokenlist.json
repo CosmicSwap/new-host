@@ -510,7 +510,15 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/easyfi_32.png"
-    }
+    },
+    {
+      "name": "CosmicSwap",
+      "address": "0xa5Eb60CA85898f8b26e18fF7c7E43623ccbA772C",
+      "symbol": "COSMIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10521.png"
+    }  
   ],
   "version": {
     "major": 1,
